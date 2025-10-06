@@ -1,0 +1,204 @@
+Filename,Predicted Class,Confidence
+genital-warts-106.jpg,eczema,76.84%
+genital-warts-129.jpg,ringworm,65.62%
+genital-warts-22.jpg,eczema,57.13%
+genital-warts-28.jpg,warts,67.61%
+genital-warts-30.jpg,warts,69.59%
+genital-warts-31.jpg,warts,62.36%
+genital-warts-38.jpg,warts,91.65%
+genital-warts-40.jpg,warts,82.08%
+genital-warts-41.jpg,warts,97.17%
+genital-warts-65.jpg,warts,90.97%
+genital-warts-66.jpg,warts,41.35%
+genital-warts-67.jpg,warts,92.40%
+genital-warts-68.jpg,warts,97.57%
+genital-warts-8.jpg,eczema,66.26%
+genital-warts-83.jpg,vitiligo,50.20%
+genital-warts-92.jpg,warts,62.55%
+genital-warts-93.jpg,warts,90.56%
+wart (100).jpg,warts,94.53%
+wart (101).jpg,warts,38.47%
+wart (106).jpg,warts,91.46%
+wart (109).jpg,vitiligo,63.74%
+wart (110).jpg,vitiligo,60.76%
+wart (114).jpg,vitiligo,69.77%
+wart (119).jpg,acne,43.70%
+wart (122).jpg,vitiligo,44.25%
+wart (125).jpg,vitiligo,96.78%
+wart (148).jpg,warts,87.77%
+wart (149).jpg,warts,98.98%
+wart (15).jpg,warts,74.11%
+wart (155).jpg,vitiligo,88.23%
+wart (157).jpg,warts,92.91%
+wart (17).jpg,vitiligo,84.72%
+wart (173).jpg,vitiligo,66.25%
+wart (181).jpg,vitiligo,42.15%
+wart (182).jpg,vitiligo,41.97%
+wart (183).jpg,vitiligo,69.11%
+wart (186).jpg,vitiligo,35.85%
+wart (187).jpg,vitiligo,37.52%
+wart (193).jpg,eczema,48.29%
+wart (203).jpg,warts,51.08%
+wart (205).jpg,eczema,55.25%
+wart (207).jpg,vitiligo,47.25%
+wart (210).jpg,eczema,45.26%
+wart (214).jpg,vitiligo,77.78%
+wart (22).jpg,psoriasis,97.55%
+wart (231).jpg,warts,98.06%
+wart (253).jpg,warts,74.53%
+wart (261).jpg,vitiligo,62.86%
+wart (268).jpg,warts,59.30%
+wart (27).jpg,psoriasis,51.35%
+wart (272).jpg,vitiligo,65.18%
+wart (274).jpg,vitiligo,49.89%
+wart (280).jpg,warts,97.71%
+wart (281).jpg,warts,94.08%
+wart (284).jpg,vitiligo,69.65%
+wart (289).jpg,warts,78.39%
+wart (299).jpg,warts,86.46%
+wart (3).jpg,warts,97.95%
+wart (301).jpg,vitiligo,55.83%
+wart (303).jpg,warts,80.37%
+wart (304).jpg,psoriasis,42.45%
+wart (311).jpg,warts,99.65%
+wart (323).jpg,warts,71.09%
+wart (324).jpg,warts,84.25%
+wart (328).jpg,psoriasis,58.38%
+wart (339).jpg,warts,98.87%
+wart (341).jpg,warts,85.18%
+wart (343).jpg,warts,91.00%
+wart (352).jpg,vitiligo,67.03%
+wart (359).jpg,eczema,82.57%
+wart (365).jpg,vitiligo,99.99%
+wart (366).jpg,warts,98.50%
+wart (373).jpg,eczema,44.39%
+wart (379).jpg,acne,98.90%
+wart (382).jpg,warts,99.86%
+wart (391).jpg,warts,76.74%
+wart (392).jpg,warts,99.11%
+wart (393).jpg,warts,97.99%
+wart (394).jpg,warts,99.63%
+wart (4).jpg,eczema,57.95%
+wart (44).jpg,urticaria,47.24%
+wart (49).jpg,warts,56.08%
+wart (51).jpg,warts,85.75%
+wart (62).jpg,vitiligo,45.65%
+wart (68).jpg,eczema,57.77%
+wart (7).jpg,warts,100.00%
+wart (76).jpg,vitiligo,85.59%
+wart (91).jpg,warts,70.98%
+wart (93).jpg,warts,67.92%
+wart (95).jpg,warts,47.64%
+warts-10.jpg,acne,98.90%
+warts-26.jpg,ringworm,32.76%
+warts-37.jpg,eczema,57.95%
+warts-39.jpg,warts,39.80%
+warts-9.jpg,psoriasis,84.30%
+warts-common-10.jpg,warts,74.11%
+warts-common-104.jpg,warts,66.34%
+warts-common-11.jpg,vitiligo,77.47%
+warts-common-113.jpg,warts,98.02%
+warts-common-30.jpg,warts,59.85%
+warts-common-4.jpg,vitiligo,40.73%
+warts-common-79.jpg,warts,93.46%
+warts-common-83.jpg,warts,67.92%
+warts-cryotherapy-11.jpg,vitiligo,63.74%
+warts-cryotherapy-15.jpg,warts,65.92%
+warts-cryotherapy-29.jpg,vitiligo,96.78%
+warts-cryotherapy-7.jpg,warts,74.44%
+warts-digitate-13.jpg,warts,55.11%
+warts-digitate-14.jpg,vitiligo,88.00%
+warts-digitate-17.jpg,warts,74.99%
+warts-digitate-23.jpg,vitiligo,59.64%
+warts-digitate-26.jpg,vitiligo,76.36%
+warts-digitate-27.jpg,warts,72.33%
+warts-digitate-33.jpg,warts,98.47%
+warts-digitate-34.jpg,warts,98.45%
+warts-digitate-62.jpg,vitiligo,41.97%
+warts-flat-19.jpg,eczema,77.14%
+warts-flat-21.jpg,vitiligo,83.42%
+warts-flat-29.jpg,eczema,50.79%
+warts-flat-34.jpg,eczema,55.25%
+warts-flat-43.jpg,vitiligo,37.44%
+warts-flat-52.jpg,psoriasis,98.69%
+warts-flat-67.jpg,warts,71.69%
+warts-flat-69.jpg,eczema,88.68%
+warts-immunocompromised-10.jpg,warts,71.83%
+warts-immunocompromised-4.jpg,eczema,69.78%
+warts-oral-5.jpg,warts,69.17%
+warts-periungual-13.jpg,vitiligo,59.95%
+warts-periungual-16.jpg,warts,65.42%
+warts-plantar-102.jpg,ringworm,98.61%
+warts-plantar-107.jpg,vitiligo,57.71%
+warts-plantar-112.jpg,eczema,41.05%
+warts-plantar-18.jpg,warts,80.37%
+warts-plantar-23.jpg,warts,99.80%
+warts-plantar-42.jpg,warts,93.82%
+warts-plantar-47.jpg,psoriasis,58.38%
+warts-plantar-52.jpg,vitiligo,65.73%
+warts-plantar-6.jpg,warts,98.87%
+warts-plantar-64.jpg,warts,45.13%
+warts-plantar-65.jpg,warts,98.86%
+warts-plantar-72.jpg,warts,90.08%
+warts-plantar-9.jpg,warts,98.50%
+warts-plantar-93.jpg,vitiligo,56.21%
+wartss (10).jpg,warts,97.14%
+wartss (101).jpg,eczema,88.68%
+wartss (35).jpg,vitiligo,99.29%
+wartss (42).jpg,vitiligo,81.62%
+wartss (57).jpg,warts,98.25%
+wartss (73).jpg,vitiligo,82.51%
+wartss (75).jpg,vitiligo,65.23%
+wartss (78).jpg,vitiligo,97.60%
+wartss (88).jpg,vitiligo,57.66%
+wartss (91).jpg,eczema,51.88%
+warts_117.jpg,warts,94.53%
+warts_126.jpg,vitiligo,63.74%
+warts_128.jpg,ringworm,44.06%
+warts_129.jpg,warts,78.49%
+warts_130.jpg,ringworm,49.91%
+warts_131.jpg,vitiligo,69.77%
+warts_135.jpg,eczema,74.06%
+warts_137.jpg,warts,64.57%
+warts_148.jpg,vitiligo,67.91%
+warts_149.jpg,vitiligo,77.22%
+warts_150.jpg,vitiligo,54.40%
+warts_16.jpg,warts,99.63%
+warts_160.jpg,warts,74.99%
+warts_163.jpg,warts,91.65%
+warts_167.jpg,vitiligo,76.36%
+warts_169.jpg,vitiligo,99.02%
+warts_173.jpg,warts,39.79%
+warts_180.jpg,warts,98.16%
+warts_181.jpg,warts,75.51%
+warts_183.jpg,vitiligo,83.35%
+warts_188.jpg,warts,92.05%
+warts_192.jpg,vitiligo,54.19%
+warts_194.jpg,ringworm,51.07%
+warts_212.jpg,vitiligo,81.28%
+warts_219.jpg,eczema,50.79%
+warts_23.jpg,warts,39.80%
+warts_237.jpg,warts,47.17%
+warts_25.jpg,warts,95.64%
+warts_30.jpg,warts,89.86%
+warts_32.jpg,warts,74.11%
+warts_384.jpg,warts,96.55%
+warts_390.jpg,eczema,44.39%
+warts_392.jpg,vitiligo,60.06%
+warts_41.jpg,psoriasis,63.92%
+warts_49.jpg,psoriasis,67.13%
+warts_51.jpg,vitiligo,35.91%
+warts_54.jpg,warts,83.75%
+warts_55.jpg,warts,91.60%
+warts_56.jpg,vitiligo,55.81%
+warts_68.jpg,warts,85.75%
+warts_70.jpg,eczema,67.99%
+warts_74.jpg,acne,52.54%
+warts_77.jpg,vitiligo,87.59%
+warts_8.jpg,ringworm,39.99%
+warts_82.jpg,warts,99.91%
+warts_83.jpg,warts,98.23%
+warts_86.jpg,psoriasis,55.34%
+warts_87.jpg,vitiligo,84.63%
+warts_88.jpg,warts,66.55%
+warts_96.jpg,warts,40.66%

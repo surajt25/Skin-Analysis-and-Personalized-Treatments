@@ -1,0 +1,284 @@
+Filename,Predicted Class,Confidence
+1 (1).jpg,acne,34.56%
+2 (16).jpg,psoriasis,45.20%
+2 (5).jpg,vitiligo,63.57%
+2 (7).jpg,psoriasis,90.55%
+2 (8).jpg,urticaria,79.90%
+3 (2).jpg,eczema,89.57%
+3 (8).jpg,vitiligo,80.49%
+3 (9).jpg,psoriasis,57.62%
+4 (6).jpg,vitiligo,93.83%
+4 (7).jpg,eczema,69.50%
+5 (10).jpg,ringworm,72.27%
+5 (15).jpg,psoriasis,87.53%
+5 (4).jpg,acne,89.25%
+6 (2).jpg,psoriasis,83.03%
+6 (7).jpg,psoriasis,73.44%
+6 (9).jpg,psoriasis,90.52%
+7 (14).jpg,vitiligo,84.90%
+7 (16).jpg,psoriasis,61.55%
+7 (4).jpg,psoriasis,54.64%
+7 (8).jpg,vitiligo,89.01%
+8 (1).jpg,psoriasis,85.72%
+8 (12).jpg,psoriasis,79.83%
+8 (9).jpg,psoriasis,79.46%
+9 (14).jpg,eczema,70.30%
+9 (16).jpg,vitiligo,37.86%
+facial-psoriasis-001__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDE5XQ.jpeg,warts,71.75%
+images2.jpg,vitiligo,92.93%
+images4.jpg,psoriasis,99.78%
+images5.jpg,vitiligo,77.48%
+images8.jpg,eczema,42.62%
+p (105).jpg,psoriasis,56.14%
+p (108).jpg,vitiligo,60.45%
+p (111).jpg,psoriasis,99.31%
+p (142).jpg,vitiligo,56.69%
+p (148).jpg,vitiligo,80.71%
+p (152).jpg,acne,44.22%
+p (23).jpg,psoriasis,73.83%
+p (31).jpg,psoriasis,70.51%
+p (35).jpg,urticaria,87.55%
+p (40).jpg,eczema,78.01%
+p (41).jpg,psoriasis,96.79%
+p (43).jpg,psoriasis,89.63%
+p (44).jpg,psoriasis,86.82%
+p (46).jpg,psoriasis,85.38%
+p (47).jpg,eczema,80.25%
+p (48).jpg,psoriasis,88.74%
+p (50).jpg,eczema,80.14%
+p (52).jpg,eczema,71.71%
+p (60).jpg,psoriasis,81.65%
+p (63).jpg,psoriasis,59.96%
+p (84).jpg,psoriasis,89.10%
+p (85).jpg,warts,49.39%
+p (87).jpg,psoriasis,85.06%
+p (91).jpg,vitiligo,38.26%
+p (92).jpg,vitiligo,81.50%
+p (93).jpg,psoriasis,62.71%
+p (94).jpg,vitiligo,68.92%
+psor (21).jpg,vitiligo,98.90%
+psor (26).jpg,eczema,86.71%
+psor (32).jpeg,psoriasis,96.88%
+psor (43).jpg,vitiligo,45.93%
+psor (8).jpg,psoriasis,79.54%
+Psoriasis-Anus-16.jpeg,vitiligo,75.16%
+Psoriasis-Anus-7.jpeg,eczema,39.92%
+Psoriasis-arthritis-1.jpeg,vitiligo,73.36%
+Psoriasis-arthritis-2.jpeg,psoriasis,62.85%
+Psoriasis-Chronic-Plaque-1.jpeg,eczema,52.91%
+Psoriasis-Chronic-Plaque-103.jpeg,eczema,39.88%
+Psoriasis-Chronic-Plaque-109.jpeg,vitiligo,63.04%
+Psoriasis-Chronic-Plaque-118.jpeg,psoriasis,97.07%
+Psoriasis-Chronic-Plaque-12.jpeg,psoriasis,58.29%
+Psoriasis-Chronic-Plaque-123.jpeg,vitiligo,93.62%
+Psoriasis-Chronic-Plaque-130.jpeg,psoriasis,92.26%
+Psoriasis-Chronic-Plaque-149.jpeg,eczema,77.02%
+Psoriasis-Chronic-Plaque-15.jpeg,psoriasis,47.69%
+Psoriasis-Chronic-Plaque-154.jpeg,eczema,99.75%
+Psoriasis-Chronic-Plaque-164.jpeg,acne,67.39%
+Psoriasis-Chronic-Plaque-173.jpeg,psoriasis,99.77%
+Psoriasis-Chronic-Plaque-18.jpeg,psoriasis,66.58%
+Psoriasis-Chronic-Plaque-181.jpeg,eczema,61.39%
+Psoriasis-Chronic-Plaque-183.jpeg,eczema,75.98%
+Psoriasis-Chronic-Plaque-193.jpeg,vitiligo,42.50%
+Psoriasis-Chronic-Plaque-89.jpeg,eczema,43.43%
+Psoriasis-Chronic-Plaque-97.jpeg,warts,71.26%
+psoriasis-erythrodermic-10.jpeg,vitiligo,46.06%
+psoriasis-erythrodermic-12.jpeg,eczema,77.35%
+psoriasis-erythrodermic-25.jpeg,eczema,78.83%
+psoriasis-erythrodermic-26.jpeg,eczema,81.72%
+psoriasis-erythrodermic-27.jpeg,warts,72.82%
+psoriasis-erythrodermic-38.jpeg,vitiligo,91.89%
+psoriasis-erythrodermic-9.jpeg,vitiligo,77.77%
+Psoriasis-Guttate-108.jpeg,psoriasis,57.57%
+Psoriasis-Guttate-109.jpeg,eczema,73.85%
+Psoriasis-Guttate-118.jpeg,psoriasis,74.07%
+Psoriasis-Guttate-12.jpeg,eczema,84.88%
+Psoriasis-Guttate-18.jpeg,eczema,82.67%
+Psoriasis-Guttate-24.jpeg,psoriasis,42.66%
+Psoriasis-Guttate-25.jpeg,urticaria,52.80%
+Psoriasis-Guttate-26.jpeg,eczema,63.21%
+Psoriasis-Guttate-33.jpeg,eczema,51.91%
+Psoriasis-Guttate-36.jpeg,urticaria,66.83%
+Psoriasis-Guttate-38.jpeg,eczema,49.42%
+Psoriasis-Guttate-39.jpeg,urticaria,40.67%
+Psoriasis-Guttate-4.jpeg,eczema,50.35%
+Psoriasis-Guttate-40.jpeg,psoriasis,39.57%
+Psoriasis-Guttate-41.jpeg,urticaria,52.80%
+Psoriasis-Guttate-52.jpeg,vitiligo,66.18%
+Psoriasis-Guttate-61.jpeg,vitiligo,79.49%
+Psoriasis-Guttate-63.jpeg,psoriasis,97.78%
+Psoriasis-Guttate-69.jpeg,psoriasis,55.04%
+Psoriasis-Guttate-70.jpeg,eczema,66.71%
+Psoriasis-Guttate-77.jpeg,eczema,68.02%
+Psoriasis-Guttate-87.jpeg,acne,97.98%
+Psoriasis-Hand-18.jpeg,psoriasis,81.78%
+Psoriasis-Hand-2.jpeg,psoriasis,82.54%
+Psoriasis-Hand-25.jpeg,vitiligo,55.83%
+Psoriasis-Hand-27.jpeg,psoriasis,84.11%
+Psoriasis-Hand-28.jpeg,psoriasis,89.99%
+Psoriasis-Hand-30.jpeg,psoriasis,69.67%
+Psoriasis-Hand-33.jpeg,vitiligo,93.03%
+Psoriasis-Hand-41.jpeg,vitiligo,77.82%
+Psoriasis-Hand-47.jpeg,vitiligo,32.34%
+Psoriasis-Hand-57.jpeg,psoriasis,86.54%
+Psoriasis-Interferon-Injection-08230423.jpeg,eczema,61.54%
+Psoriasis-inversus-22.jpeg,eczema,65.22%
+Psoriasis-inversus-23.jpeg,ringworm,45.58%
+Psoriasis-inversus-30.jpeg,ringworm,35.67%
+Psoriasis-inversus-31.jpeg,vitiligo,71.29%
+Psoriasis-inversus-33.jpeg,eczema,60.91%
+Psoriasis-Light-Sensative-8.jpeg,eczema,51.12%
+Psoriasis-nails-15.jpeg,psoriasis,94.24%
+Psoriasis-nails-17.jpeg,psoriasis,69.37%
+Psoriasis-nails-23.jpeg,ringworm,35.43%
+Psoriasis-nails-25.jpeg,vitiligo,69.27%
+Psoriasis-nails-28.jpeg,vitiligo,95.54%
+Psoriasis-nails-31.jpeg,warts,49.39%
+Psoriasis-nails-7.jpeg,warts,68.70%
+psoriasis-palms-soles-104.jpeg,vitiligo,58.78%
+psoriasis-palms-soles-106.jpeg,vitiligo,85.74%
+psoriasis-palms-soles-114.jpeg,vitiligo,55.11%
+psoriasis-palms-soles-118.jpeg,psoriasis,81.35%
+psoriasis-palms-soles-124.jpeg,vitiligo,73.77%
+psoriasis-palms-soles-127.jpeg,psoriasis,56.48%
+psoriasis-palms-soles-13.jpeg,psoriasis,36.04%
+psoriasis-palms-soles-147.jpeg,vitiligo,77.98%
+psoriasis-palms-soles-156.jpeg,psoriasis,34.07%
+psoriasis-palms-soles-16.jpeg,vitiligo,67.98%
+psoriasis-palms-soles-163.jpeg,vitiligo,54.81%
+psoriasis-palms-soles-171.jpeg,psoriasis,50.87%
+psoriasis-palms-soles-177.jpeg,vitiligo,79.80%
+psoriasis-palms-soles-185.jpeg,psoriasis,56.14%
+psoriasis-palms-soles-187.jpeg,psoriasis,94.80%
+psoriasis-palms-soles-189.jpeg,vitiligo,52.95%
+psoriasis-palms-soles-19.jpeg,acne,63.41%
+psoriasis-palms-soles-195.jpeg,vitiligo,42.10%
+psoriasis-palms-soles-196.jpeg,vitiligo,59.30%
+psoriasis-palms-soles-90.jpeg,psoriasis,67.08%
+psoriasis-palms-soles-91.jpeg,psoriasis,67.08%
+Psoriasis-penis-25.jpeg,eczema,75.10%
+Psoriasis-penis-28.jpeg,psoriasis,34.52%
+Psoriasis-penis-3.jpeg,vitiligo,77.03%
+Psoriasis-penis-4.jpeg,psoriasis,38.17%
+Psoriasis-penis-6.jpeg,eczema,54.52%
+psoriasis-pustular-generalized-1.jpeg,vitiligo,71.58%
+psoriasis-pustular-generalized-13.jpeg,urticaria,99.75%
+psoriasis-pustular-generalized-16.jpeg,eczema,89.82%
+psoriasis-pustular-generalized-21.jpeg,ringworm,44.33%
+psoriasis-pustular-generalized-30.jpeg,eczema,42.90%
+psoriasis-pustular-generalized-55.jpeg,eczema,47.55%
+psoriasis-pustular-generalized-63.jpeg,vitiligo,85.39%
+psoriasis-pustular-generalized-64.jpeg,eczema,87.05%
+psoriasis-scalp-34.jpeg,vitiligo,45.46%
+psoriasis-scalp-50.jpeg,vitiligo,95.95%
+psoriasis-scalp-56.jpeg,eczema,32.79%
+psoriasis-scalp-57.jpeg,psoriasis,88.34%
+psoriasis-scalp-59.jpeg,psoriasis,67.63%
+psoriasis-scalp-7.jpeg,warts,34.22%
+psoriasis-scalp-70.jpeg,psoriasis,59.07%
+psoriasis-scalp-74.jpeg,psoriasis,96.90%
+psoriasis-scalp-83.jpeg,vitiligo,87.14%
+psoriasis-scalp-9.jpeg,vitiligo,61.62%
+psoriasis-scalp-92.jpeg,vitiligo,63.53%
+psoriasis-scalp-95.jpeg,acne,43.75%
+Psoriasis-sunburn-2.jpeg,eczema,55.45%
+Psoriasis-sunburn-3.jpeg,vitiligo,54.24%
+Psoriasis-treatment-1.jpeg,eczema,96.01%
+psoriasis_102.jpg,psoriasis,99.08%
+psoriasis_123.jpg,eczema,43.07%
+psoriasis_128.jpg,eczema,74.41%
+psoriasis_141.jpg,vitiligo,93.03%
+psoriasis_145.jpg,vitiligo,93.06%
+Psoriasis_162.jpg,psoriasis,51.49%
+Psoriasis_179.jpg,vitiligo,49.40%
+Psoriasis_180.jpg,acne,30.43%
+Psoriasis_183.jpg,eczema,57.24%
+Psoriasis_184.jpg,urticaria,66.19%
+Psoriasis_186.jpg,psoriasis,42.66%
+Psoriasis_188.jpg,eczema,63.21%
+Psoriasis_189.jpg,eczema,87.73%
+Psoriasis_190.jpg,urticaria,99.03%
+Psoriasis_193.jpg,urticaria,98.40%
+Psoriasis_198.jpg,eczema,49.42%
+Psoriasis_207.jpg,psoriasis,93.75%
+Psoriasis_221.jpg,psoriasis,97.78%
+Psoriasis_224.jpg,eczema,94.81%
+Psoriasis_227.jpg,eczema,51.69%
+Psoriasis_228.jpg,eczema,66.71%
+Psoriasis_230.jpg,eczema,59.22%
+Psoriasis_235.jpg,ringworm,50.91%
+Psoriasis_240.jpg,psoriasis,100.00%
+Psoriasis_242.jpg,ringworm,35.28%
+Psoriasis_245.jpg,urticaria,61.53%
+Psoriasis_255.jpg,psoriasis,83.68%
+Psoriasis_256.jpg,acne,48.68%
+Psoriasis_258.jpg,psoriasis,81.78%
+Psoriasis_259.jpg,psoriasis,73.97%
+Psoriasis_262.jpg,vitiligo,52.02%
+Psoriasis_264.jpg,vitiligo,68.45%
+Psoriasis_274.jpg,psoriasis,89.97%
+Psoriasis_276.jpg,vitiligo,65.00%
+Psoriasis_278.jpg,psoriasis,45.86%
+Psoriasis_283.jpg,psoriasis,36.57%
+Psoriasis_288.jpg,ringworm,44.13%
+Psoriasis_368.jpg,warts,40.41%
+Psoriasis_381.jpg,vitiligo,69.27%
+Psoriasis_392.jpg,psoriasis,68.69%
+psoriasis_400.jpg,vitiligo,82.83%
+psoriasis_401.jpg,vitiligo,85.74%
+psoriasis_422.jpg,vitiligo,72.89%
+psoriasis_425.jpg,psoriasis,39.71%
+psoriasis_434.jpg,ringworm,63.55%
+psoriasis_446.jpg,psoriasis,53.69%
+psoriasis_45.jpg,psoriasis,63.03%
+psoriasis_450.jpg,vitiligo,55.15%
+psoriasis_456.jpg,psoriasis,60.71%
+psoriasis_463.jpg,vitiligo,62.86%
+psoriasis_465.jpg,vitiligo,48.33%
+psoriasis_471.jpg,vitiligo,61.87%
+psoriasis_474.jpg,vitiligo,92.69%
+psoriasis_475.jpg,psoriasis,90.47%
+psoriasis_476.jpg,vitiligo,95.24%
+psoriasis_481.jpg,psoriasis,62.94%
+psoriasis_483.jpg,psoriasis,62.94%
+psoriasis_489.jpg,psoriasis,67.08%
+psoriasis_494.jpg,psoriasis,42.43%
+psoriasis_496.jpg,psoriasis,48.67%
+psoriasis_51.jpg,psoriasis,50.83%
+psoriasis_527.jpg,warts,45.70%
+psoriasis_528.jpg,eczema,89.82%
+psoriasis_547.jpg,eczema,38.35%
+psoriasis_554.jpg,psoriasis,81.61%
+psoriasis_555.jpg,psoriasis,71.68%
+psoriasis_560.jpg,urticaria,93.36%
+psoriasis_573.jpg,vitiligo,86.73%
+psoriasis_579.jpg,warts,35.73%
+psoriasis_583.jpg,vitiligo,50.71%
+psoriasis_591.jpg,eczema,75.99%
+psoriasis_615.jpg,vitiligo,50.22%
+psoriasis_616.jpg,vitiligo,71.28%
+Psoriasis_677.jpg,eczema,84.65%
+psoriasis_78.jpg,eczema,43.31%
+psoriasis_82.jpg,psoriasis,45.03%
+psoriasis_95.jpg,psoriasis,91.80%
+scalp-psoriasis-0003__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpeg,ringworm,58.77%
+scalp-psoriasis-0006__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpeg,vitiligo,97.90%
+scalp-psoriasis-0011__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpeg,vitiligo,86.28%
+scalp-psoriasis-0015__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpeg,ringworm,71.13%
+t-Psoriasis-Chronic-Plaque-106.jpg,urticaria,95.16%
+t-Psoriasis-Chronic-Plaque-110.jpg,eczema,39.26%
+t-Psoriasis-Chronic-Plaque-112.jpg,psoriasis,51.85%
+t-Psoriasis-Chronic-Plaque-119.jpg,psoriasis,98.49%
+t-Psoriasis-Chronic-Plaque-129.jpg,warts,40.09%
+t-Psoriasis-Chronic-Plaque-178.jpg,psoriasis,90.22%
+t-Psoriasis-Chronic-Plaque-18.jpg,psoriasis,66.58%
+t-Psoriasis-Chronic-Plaque-182.jpg,urticaria,68.72%
+t-Psoriasis-Chronic-Plaque-91.jpg,vitiligo,49.56%
+t-psoriasis-erythrodermic-35.jpg,psoriasis,73.93%
+t-Psoriasis-Guttate-119.jpg,eczema,87.62%
+t-Psoriasis-Guttate-54.jpg,eczema,57.60%
+t-Psoriasis-Guttate-78.jpg,ringworm,50.91%
+t-Psoriasis-Guttate-9.jpg,urticaria,61.53%
+t-Psoriasis-Guttate-92.jpg,eczema,78.81%
+t-Psoriasis-Hand-9.jpg,psoriasis,81.17%
